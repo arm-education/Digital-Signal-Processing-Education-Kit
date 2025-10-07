@@ -20,6 +20,25 @@ Our Digital Signal Processing Education Kit covers the fundamental theory and pr
 * Lab manual with solutions for faculty. Labs are based on low-cost hardware platforms (donated by partners and subject to availability) powered by Arm Cortex-M-based microcontrollers that enable high performance yet energy-efficient digital signal processing, and use the industry-standard Keil MDK-Arm application development tool.
 * **Prerequisites:** Basic C programming, elementary mathematics.
 
+## Tools Used
+
+The lab exercises in this course can be run on Windows and have been developed and tested using the hardware and software listed below. If you use alternatives, you may need to make adjustments to ensure the labs run successfully.
+
+Hardware:
+- STM32F746G Discovery board (x 2)
+- Oscilloscope
+- Signal generator
+- BNC T-piece
+- Earphones/Headphones
+- 3.5 mm Audio Jack
+
+Software: 
+- STM32CubeF7 MCU (version 1.17.0)
+- ST-Link
+- Keil MDK-Arm (version 5.41)
+- MATLAB (version R2019a)
+- GoldWave (version 6.41)
+  
 ## Course Aim
 To develop the ability to implement DSP systems and create commercially viable audio applications using high performance and energy-efficient Arm processors.
 
