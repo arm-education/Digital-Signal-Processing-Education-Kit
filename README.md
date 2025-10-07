@@ -26,6 +26,7 @@ The lab exercises in this course can be run on Windows and have been developed a
 
 Hardware:
 - STM32F746G Discovery board (x 2)
+- ST-Link
 - Oscilloscope
 - Signal generator
 - BNC T-piece
@@ -34,7 +35,6 @@ Hardware:
 
 Software: 
 - STM32CubeF7 MCU (version 1.17.0)
-- ST-Link
 - Keil MDK-Arm (version 5.41)
 - MATLAB (version R2019a)
 - GoldWave (version 6.41)
