@@ -1,1 +1,79 @@
+# =========================
+
+# OS Files
+
+# =========================
+
 .DS_Store
+Thumbs.db
+
+# =========================
+
+# Keil uVision Build Folders
+
+# =========================
+
+Objects/
+Listings/
+DebugConfig/
+RTE/*Debug**/
+RTE/*Release**/
+
+# =========================
+
+# Keil Output Files
+
+# =========================
+
+*.axf
+*.bin
+*.hex
+*.o
+*.d
+*.crf
+*.lst
+*.map
+
+# =========================
+
+# Keil User-Specific Files
+
+# =========================
+
+*.uvguix.*
+*.uvoptx
+
+# =========================
+
+# Temporary / Backup Files
+
+# =========================
+
+*.bak
+*.tmp
+*.log
+
+# =========================
+
+# ARM Compiler Files
+
+# =========================
+
+*.sct.bak
+*.lnp
+
+# =========================
+
+# CMSIS / RTE Generated (Optional)
+
+# =========================
+
+RTE/Device/*/startup_*.o
+
+# =========================
+
+# Editor / IDE
+
+# =========================
+
+.vscode/
